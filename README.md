@@ -1,2 +1,2 @@
-# manual-angular-ob
-Manual de Angular Básico y Avanzado
+# manual-angular-OB
+Manual de Angular Básico y Avanzado del curso de OB
